@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Genshin List</string>
+
+    <string-array name="images">
+        <item>@drawable/ayaka</item>
+        <item>@drawable/amber</item>
+        <item>@drawable/barbara</item>
+        <item>@drawable/jean</item>
+        <item>@drawable/ningguang</item>
+        <item>@drawable/noelle</item>
+        <item>@drawable/venti</item>
+        <item>@drawable/xiangling</item>
+    </string-array>
+
+    <string-array name="nama">
+        <item>Kamisato Ayaka</item>
+        <item>Amber</item>
+        <item>Barbara</item>
+        <item>Jean</item>
+        <item>Ningguang</item>
+        <item>Noelle</item>
+        <item>Venti</item>
+        <item>Xiangling</item>
+    </string-array>
+
+
+
+</resources>
